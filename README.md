@@ -25,12 +25,22 @@ learnplaywright3x/
 │   ├── 06_literal.js
 │   ├── 07_exercise_null_vs_undefined.js
 │   └── 08_number_literal.js
+├── 05_chapter_operator/        # Data types & operators (exercises)
+│   ├── 09_data_types_explaining.js
+│   ├── 10_assignment_operator.js
+│   ├── 11_comparison_operator.js
+│   ├── 12_logical_operator.js
+│   └── 13_confusing_comparison.js
 └── IQ_Notes/                   # Concept explainer notes (Markdown)
     ├── 00_vs_code_shortcuts.md
     ├── 01_javascript_introduction_iq.md
     ├── 02_source_code_bytecode_binary_iq.md
     ├── 03_identifiers_and_literals_iq.md
     ├── 04_null_vs_undefined_iq.md
+    ├── 05_data_types_and_variables_iq.md
+    ├── 06_var_let_const_iq.md
+    ├── 07_primitive_vs_non_primitive_iq.md
+    ├── 08_operators_iq.md
     └── README.md               # Prompt template for generating IQ notes
 ```
 
@@ -48,6 +58,13 @@ learnplaywright3x/
 | 6 | Literals (number, string, boolean, array…) | `06_literal.js` | [identifiers & literals](IQ_Notes/03_identifiers_and_literals_iq.md) |
 | 7 | Null vs undefined (exercise) | `07_exercise_null_vs_undefined.js` | [null vs undefined](IQ_Notes/04_null_vs_undefined_iq.md) |
 | 8 | Number literals | `08_number_literal.js` | — |
+| 9 | Data types — primitive vs non-primitive (exercise) | `09_data_types_explaining.js` | [primitive vs non-primitive](IQ_Notes/07_primitive_vs_non_primitive_iq.md) |
+| 10 | Assignment operators (exercise) | `10_assignment_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 11 | Comparison operators (exercise) | `11_comparison_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 12 | Logical operators (exercise) | `12_logical_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 13 | Confusing comparisons — coercion traps (exercise) | `13_confusing_comparison.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| — | Data types & variables | — | [note](IQ_Notes/05_data_types_and_variables_iq.md) |
+| — | `var` vs `let` vs `const` | — | [note](IQ_Notes/06_var_let_const_iq.md) |
 | — | Source code vs bytecode vs binary | — | [note](IQ_Notes/02_source_code_bytecode_binary_iq.md) |
 | — | VS Code shortcuts (Mac & Windows) | — | [cheat sheet](IQ_Notes/00_vs_code_shortcuts.md) |
 
