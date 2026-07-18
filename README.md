@@ -30,7 +30,14 @@ learnplaywright3x/
 │   ├── 10_assignment_operator.js
 │   ├── 11_comparison_operator.js
 │   ├── 12_logical_operator.js
-│   └── 13_confusing_comparison.js
+│   ├── 13_confusing_comparison.js
+│   ├── 14_string_operator.js
+│   ├── 15_ternary_operator.js
+│   ├── 16_IQ1.js … 20_IQ5.js   # Ternary operator IQ exercises
+│   ├── 21_nested_ternary_operator.js
+│   ├── 22_NT_IQ1.js
+│   ├── 23_NT_IQ2.js            # Nested ternary IQ exercises
+│   └── 24_type_operator.js
 └── IQ_Notes/                   # Concept explainer notes (Markdown)
     ├── 00_vs_code_shortcuts.md
     ├── 01_javascript_introduction_iq.md
@@ -63,6 +70,12 @@ learnplaywright3x/
 | 11 | Comparison operators (exercise) | `11_comparison_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 12 | Logical operators (exercise) | `12_logical_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 13 | Confusing comparisons — coercion traps (exercise) | `13_confusing_comparison.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 14 | String operators — concatenation with `+` and `+=` | `14_string_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 15 | Ternary operator | `15_ternary_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 16 | Ternary operator IQ exercises (test-automation flavored) | `16_IQ1.js` … `20_IQ5.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 17 | Nested ternary operator | `21_nested_ternary_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 18 | Nested ternary IQ exercises | `22_NT_IQ1.js`, `23_NT_IQ2.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 19 | `typeof` type operator | `24_type_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | — | Data types & variables | — | [note](IQ_Notes/05_data_types_and_variables_iq.md) |
 | — | `var` vs `let` vs `const` | — | [note](IQ_Notes/06_var_let_const_iq.md) |
 | — | Source code vs bytecode vs binary | — | [note](IQ_Notes/02_source_code_bytecode_binary_iq.md) |
