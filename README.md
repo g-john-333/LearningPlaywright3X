@@ -37,7 +37,12 @@ learnplaywright3x/
 │   ├── 21_nested_ternary_operator.js
 │   ├── 22_NT_IQ1.js
 │   ├── 23_NT_IQ2.js            # Nested ternary IQ exercises
-│   └── 24_type_operator.js
+│   ├── 24_type_operator.js
+│   ├── 25_pre_post_increment.js
+│   ├── 26_increment_IQ.js
+│   ├── 27_increment_part2.js
+│   ├── 28_decrement.js
+│   └── 29_null_coalescing.js
 └── IQ_Notes/                   # Concept explainer notes (Markdown)
     ├── 00_vs_code_shortcuts.md
     ├── 01_javascript_introduction_iq.md
@@ -76,6 +81,10 @@ learnplaywright3x/
 | 17 | Nested ternary operator | `21_nested_ternary_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 18 | Nested ternary IQ exercises | `22_NT_IQ1.js`, `23_NT_IQ2.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 19 | `typeof` type operator | `24_type_operator.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 20 | Pre/post increment (`++x`, `x++`) | `25_pre_post_increment.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 21 | Increment IQ exercises | `26_increment_IQ.js`, `27_increment_part2.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 22 | Pre/post decrement (`--x`, `x--`) | `28_decrement.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 23 | Null coalescing operator (`??`) | `29_null_coalescing.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | — | Data types & variables | — | [note](IQ_Notes/05_data_types_and_variables_iq.md) |
 | — | `var` vs `let` vs `const` | — | [note](IQ_Notes/06_var_let_const_iq.md) |
 | — | Source code vs bytecode vs binary | — | [note](IQ_Notes/02_source_code_bytecode_binary_iq.md) |
