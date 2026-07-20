@@ -42,7 +42,10 @@ learnplaywright3x/
 │   ├── 26_increment_IQ.js
 │   ├── 27_increment_part2.js
 │   ├── 28_decrement.js
-│   └── 29_null_coalescing.js
+│   ├── 29_null_coalescing.js
+│   ├── 30_Increment_decrement_task.js
+│   ├── 31_FizzBuzz_coding_excercise.js
+│   └── 32_Grade_Calculator.js
 └── IQ_Notes/                   # Concept explainer notes (Markdown)
     ├── 00_vs_code_shortcuts.md
     ├── 01_javascript_introduction_iq.md
@@ -85,6 +88,9 @@ learnplaywright3x/
 | 21 | Increment IQ exercises | `26_increment_IQ.js`, `27_increment_part2.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 22 | Pre/post decrement (`--x`, `x--`) | `28_decrement.js` | [operators](IQ_Notes/08_operators_iq.md) |
 | 23 | Null coalescing operator (`??`) | `29_null_coalescing.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 24 | Increment/decrement mixed task | `30_Increment_decrement_task.js` | [operators](IQ_Notes/08_operators_iq.md) |
+| 25 | FizzBuzz coding exercise (user input via `readline`) | `31_FizzBuzz_coding_excercise.js` | — |
+| 26 | Grade calculator (user input via `readline`) | `32_Grade_Calculator.js` | — |
 | — | Data types & variables | — | [note](IQ_Notes/05_data_types_and_variables_iq.md) |
 | — | `var` vs `let` vs `const` | — | [note](IQ_Notes/06_var_let_const_iq.md) |
 | — | Source code vs bytecode vs binary | — | [note](IQ_Notes/02_source_code_bytecode_binary_iq.md) |
@@ -106,6 +112,10 @@ node 04_chapter_literal/06_literal.js
 ```
 
 Each `.js` file is self-contained — run it and read the inline comments to follow along.
+
+> **Note:** `31_FizzBuzz_coding_excercise.js` and `32_Grade_Calculator.js` prompt for user
+> input, so run them in a terminal (if using the Code Runner extension, enable
+> **Code-runner: Run In Terminal** in settings).
 
 ---
 
